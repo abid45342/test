@@ -15,7 +15,7 @@ public:
 class Espresso : public Beverage {
 public:
     string getDescription() override {
-        return "Espresso";
+        return "Espressor";
     }
     double cost() override {
         return 1.99;
