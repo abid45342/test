@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/ACADEMIC_3-2/SE/gtest/Decorator/build/cmake_install.cmake",
+		"D:/ACADEMIC_3-2/SE/gtest/Decorator/build/googletest/cmake_install.cmake",
+		"D:/ACADEMIC_3-2/SE/gtest/Decorator/build/googletest/googlemock/cmake_install.cmake",
+		"D:/ACADEMIC_3-2/SE/gtest/Decorator/build/googletest/googletest/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
